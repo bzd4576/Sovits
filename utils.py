@@ -148,7 +148,7 @@ def get_hparams(init=True):
   
   args = parser.parse_args()
 
-  model_dir = os.path.join("./logs", args.model)
+  model_dir = os.path.join("../drive/MyDrive/logs", args.model)
   if not os.path.exists(model_dir):
     os.makedirs(model_dir)
   
