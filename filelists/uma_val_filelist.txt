@@ -1,0 +1,32 @@
+/content/Sovits/uma_voice/1003/dev/snd_voi_training_100302#7 (snd_voi_training_100302_0007).wav|0|/content/Sovits/uma_soft/1003/dev/snd_voi_training_100302#7 (snd_voi_training_100302_0007).npy
+/content/Sovits/uma_voice/1003/dev/snd_voi_training_100302#8 (snd_voi_training_100302_0008).wav|0|/content/Sovits/uma_soft/1003/dev/snd_voi_training_100302#8 (snd_voi_training_100302_0008).npy
+/content/Sovits/uma_voice/1003/dev/snd_voi_training_100302#9 (snd_voi_training_100302_0009).wav|0|/content/Sovits/uma_soft/1003/dev/snd_voi_training_100302#9 (snd_voi_training_100302_0009).npy
+/content/Sovits/uma_voice/1003/dev/snd_voi_valentine_100300 (snd_voi_valentine_100300_0001).wav|0|/content/Sovits/uma_soft/1003/dev/snd_voi_valentine_100300 (snd_voi_valentine_100300_0001).npy
+/content/Sovits/uma_voice/1052/dev/snd_voi_training_105202#7 (snd_voi_training_105202_0007).wav|1|/content/Sovits/uma_soft/1052/dev/snd_voi_training_105202#7 (snd_voi_training_105202_0007).npy
+/content/Sovits/uma_voice/1052/dev/snd_voi_training_105202#8 (snd_voi_training_105202_0008).wav|1|/content/Sovits/uma_soft/1052/dev/snd_voi_training_105202#8 (snd_voi_training_105202_0008).npy
+/content/Sovits/uma_voice/1052/dev/snd_voi_training_105202#9 (snd_voi_training_105202_0009).wav|1|/content/Sovits/uma_soft/1052/dev/snd_voi_training_105202#9 (snd_voi_training_105202_0009).npy
+/content/Sovits/uma_voice/1052/dev/snd_voi_valentine_105200 (snd_voi_valentine_105200_0001).wav|1|/content/Sovits/uma_soft/1052/dev/snd_voi_valentine_105200 (snd_voi_valentine_105200_0001).npy
+/content/Sovits/uma_voice/1056/dev/snd_voi_training_105602#7 (snd_voi_training_105602_0007).wav|2|/content/Sovits/uma_soft/1056/dev/snd_voi_training_105602#7 (snd_voi_training_105602_0007).npy
+/content/Sovits/uma_voice/1056/dev/snd_voi_training_105602#8 (snd_voi_training_105602_0008).wav|2|/content/Sovits/uma_soft/1056/dev/snd_voi_training_105602#8 (snd_voi_training_105602_0008).npy
+/content/Sovits/uma_voice/1056/dev/snd_voi_training_105602#9 (snd_voi_training_105602_0009).wav|2|/content/Sovits/uma_soft/1056/dev/snd_voi_training_105602#9 (snd_voi_training_105602_0009).npy
+/content/Sovits/uma_voice/1056/dev/snd_voi_valentine_105600 (snd_voi_valentine_105600_0001).wav|2|/content/Sovits/uma_soft/1056/dev/snd_voi_valentine_105600 (snd_voi_valentine_105600_0001).npy
+/content/Sovits/uma_voice/1062/dev/snd_voi_training_106201#7 (snd_voi_training_106201_0007).wav|3|/content/Sovits/uma_soft/1062/dev/snd_voi_training_106201#7 (snd_voi_training_106201_0007).npy
+/content/Sovits/uma_voice/1062/dev/snd_voi_training_106201#8 (snd_voi_training_106201_0008).wav|3|/content/Sovits/uma_soft/1062/dev/snd_voi_training_106201#8 (snd_voi_training_106201_0008).npy
+/content/Sovits/uma_voice/1062/dev/snd_voi_training_106201#9 (snd_voi_training_106201_0009).wav|3|/content/Sovits/uma_soft/1062/dev/snd_voi_training_106201#9 (snd_voi_training_106201_0009).npy
+/content/Sovits/uma_voice/1062/dev/snd_voi_valentine_106200 (snd_voi_valentine_106200_0001).wav|3|/content/Sovits/uma_soft/1062/dev/snd_voi_valentine_106200 (snd_voi_valentine_106200_0001).npy
+/content/Sovits/onikuru/wavs/dev/akai_kutsu_01.wav|4|/content/Sovits/onikuru/soft/dev/akai_kutsu_01.npy
+/content/Sovits/onikuru/wavs/dev/akatonbo_03.wav|4|/content/Sovits/onikuru/soft/dev/akatonbo_03.npy
+/content/Sovits/onikuru/wavs/dev/amehuri_03.wav|4|/content/Sovits/onikuru/soft/dev/amehuri_03.npy
+/content/Sovits/onikuru/wavs/dev/aogeba_toutoshi_03.wav|4|/content/Sovits/onikuru/soft/dev/aogeba_toutoshi_03.npy
+/content/Sovits/cpop/wavs/dev/2044001628.wav|5|/content/Sovits/cpop/soft/dev/2044001628.npy
+/content/Sovits/cpop/wavs/dev/2044001629.wav|5|/content/Sovits/cpop/soft/dev/2044001629.npy
+/content/Sovits/cpop/wavs/dev/2044001630.wav|5|/content/Sovits/cpop/soft/dev/2044001630.npy
+/content/Sovits/cpop/wavs/dev/2044001631.wav|5|/content/Sovits/cpop/soft/dev/2044001631.npy
+/content/Sovits/cpop/wavs/dev/2044001632.wav|5|/content/Sovits/cpop/soft/dev/2044001632.npy
+/content/Sovits/cpop/wavs/dev/2044001633.wav|5|/content/Sovits/cpop/soft/dev/2044001633.npy
+/content/Sovits/cpop/wavs/dev/2044001634.wav|5|/content/Sovits/cpop/soft/dev/2044001634.npy
+/content/Sovits/cpop/wavs/dev/2044001635.wav|5|/content/Sovits/cpop/soft/dev/2044001635.npy
+/content/Sovits/cpop/wavs/dev/2044001636.wav|5|/content/Sovits/cpop/soft/dev/2044001636.npy
+/content/Sovits/cpop/wavs/dev/2044001637.wav|5|/content/Sovits/cpop/soft/dev/2044001637.npy
+/content/Sovits/cpop/wavs/dev/2044001638.wav|5|/content/Sovits/cpop/soft/dev/2044001638.npy
+/content/Sovits/cpop/wavs/dev/2100003755.wav|5|/content/Sovits/cpop/soft/dev/2100003755.npy
